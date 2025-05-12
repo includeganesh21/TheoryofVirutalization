@@ -1,4 +1,4 @@
-#Assignment-6
+# Assignment-6
 
 Below is a detailed response to the additional eight questions (Q13–Q20) for **Assignment-6**, addressing key management in encryption, encryption use cases, vulnerabilities in encryption, the importance of patch management, the patch management lifecycle, challenges in patch management, patch deployment strategies, and the role of patch management in security and compliance. Each answer includes the question as a heading, followed by a comprehensive explanation with technical depth, practical strategies, and relevant examples to illustrate key concepts. The responses are formatted for easy copying into separate files, with clear headings as requested.
 
