@@ -1,3 +1,5 @@
+# Assignment 6 continues
+
 Below is a detailed response to questions Q21–Q30 for **Assignment-6**, addressing serverless computing principles, the "no servers" aspect, types of serverless services, serverless function execution, cloud computing characteristics, deployment models, benefits, the role of APIs, KVM CPU virtualization, and Xen CPU scheduling. Each answer includes the question as a heading, followed by a comprehensive explanation with technical depth, practical examples, and relevant context for virtualized and cloud environments. The responses are formatted for easy copying into separate files, with clear headings as requested.
 
 ---
