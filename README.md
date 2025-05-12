@@ -1,4 +1,5 @@
 # TheoryofVirutalization
+## Ache se padhna
 Below are detailed study notes for the **Theory of Virtualization** course, with a particular emphasis on **Module 6 (Cloud Computing and Virtualization)**, **Module 7 (Virtualization Security)**, and **Module 8 (Virtualization Case Studies and Future Trends)** as requested. These notes expand on the provided syllabus and short notes, offering comprehensive content suitable for exam preparation in a structured and detailed format. I’ve also included key points from other modules to ensure a holistic understanding, but the focus is on the specified modules. The notes are designed to be thorough, covering definitions, concepts, technologies, benefits, challenges, and practical applications, with additional emphasis on exam-relevant details.
 
 ---
